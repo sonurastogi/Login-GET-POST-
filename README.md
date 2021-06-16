@@ -5,6 +5,6 @@ One can login by using get method or  by post method ,
 for different methods there is different php code which helps in,
 data sending and receiving to mysql DATABASE over internet to the REMOTE SERVER.
 And on Successful login it also provides your desination which is already stored on  your remote server MYSQL DATABASE.
-AND YOU CAN ONLY LOGIN TO THIS APPLICATION IF YOUR CREDENTIALS ARE ALREADY STORED ON MYSQL DATABASE. DB
+AND YOU CAN ONLY LOGIN TO THIS APPLICATION IF YOUR CREDENTIALS ARE ALREADY STORED ON MYSQL DATABASE(DB). DB 
 
 BEST OF LUCK
