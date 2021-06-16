@@ -7,4 +7,12 @@ data sending and receiving to mysql DATABASE over internet to the REMOTE SERVER.
 And on Successful login it also provides your desination which is already stored on  your remote server MYSQL DATABASE.
 AND YOU CAN ONLY LOGIN TO THIS ANDROID APPLICATION IF YOUR CREDENTIALS ARE ALREADY STORED ON MYSQL DATABASE(DB).
 
+
+
+Technologies Used
+  MY-SQL(PHP-MYADMIN)
+  PHP LANGUAGE (AS A API)
+  JAVA,XML in (ANDROID STUDIO FRAMEWORK)
+  
+
 BEST OF LUCK
